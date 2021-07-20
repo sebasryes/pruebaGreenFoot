@@ -19,7 +19,7 @@ public class MyCat extends Cat
      walkRight(5);
      walkLeft(5);
      dance(); 
-     if(isBored())
+     if(isBored()) //Hola Gato
      {
          sleep(7);
      }
